@@ -1,0 +1,52 @@
+ssh - remote machine access(putty)
+ls -list directory contents
+cd - (without args) goes home
+cd .. go ip
+pwd - which directory 
+
+
+while () true
+string ( charToDelete = keyboard.nextline()
+
+alphabet = update(alphapbet, char delet)
+
+
+public String update
+string updated= " "
+for (int= 0; i < old.length (); i++)
+if (toDelete.equals(pld charat(1))
+update += old.charAt (i);
+}
+return update
+
+
+
+
+while (true)
+System.out.println(evenround(10,20)
+
+public int evenround(int lo, int hi)
+int x =round.nextInt((hi-lo)  / 2 + 1 )*2
+return x
+
+
+for (i = 0, I <5){
+while(
+
+int direcRoll(int k)
+Random rand = new random();
+
+int totalRolls = 0
+int consective= 0
+while (consective != k))
+int d1 = rand.nextInt(6) + 1;
+int d2 = rand.nextInt(6) +1
+int total = d1+ d2
+
+if total == 7
+consective += 1
+else
+consective +=0
+
+totalRolls +=1
+}

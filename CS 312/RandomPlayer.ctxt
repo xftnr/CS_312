@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=seed
+comment0.target=RandomPlayer(int)
+comment0.text=\r\n\ Construct\ a\ RandomPlayer\ object\ based\ on\ the\ given\ seed.\r\n\ @param\ seed\ The\ initial\ seed\ for\ the\ random\ number\ generator\r\n
+comment1.params=
+comment1.target=RandomPlayer()
+comment1.text=\r\n\ Construct\ a\ RandomPlayer\ object\ that\ follows\ a\ predictable\ sequence.\r\n\ The\ sequence\ is\ 1,\ 2,\ 3,\ 2,\ 3,\ 1,\ 1\ which\ represents\ \r\n\ the\ choices\ ROCK,\ PAPER,\ SCISSORS,\ PAPER,\ SCISSORS,\ ROCK,\ ROCK.\r\n
+comment2.params=
+comment2.target=int\ getComputerChoice()
+comment2.text=\r\n\ Return\ the\ computer's\ choice.\ 1\ represents\ ROCK,\ 2\ represents\ Paper,\r\n\ and\ 3\ represents\ Scissors.\r\n\ @return\ The\ computer's\ next\ choice.\r\n
+numComments=3

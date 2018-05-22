@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\ A\ program\ to\ allow\ a\ human\ player\ to\ play\ rock\ -\ paper\ -\ scissors\r\n\ against\ the\ computer.\ If\ args.length\ \!\=\ 0\ then\ we\ assume\r\n\ the\ first\ element\ of\ args\ can\ be\ converted\ to\ an\ int\r\n
+comment1.params=keyboard
+comment1.target=java.lang.String\ name(java.util.Scanner)
+comment2.params=keyboard
+comment2.target=int\ rounds(java.util.Scanner)
+comment3.params=keyboard\ name\ rounds\ computerPlayer\ comp\ player\ draw
+comment3.target=void\ loop(java.util.Scanner,\ java.lang.String,\ int,\ RandomPlayer,\ int,\ int,\ int)
+comment4.params=numberchosen
+comment4.target=java.lang.String\ choicename(int)
+comment5.params=comp\ player\ draw\ rounds\ name
+comment5.target=void\ summary(int,\ int,\ int,\ int,\ java.lang.String)
+comment6.params=args
+comment6.target=RandomPlayer\ buildRandomPlayer(java.lang.String[])
+comment6.text=\r\n\ Build\ the\ random\ player.\ If\ args\ is\ length\ 0\ then\ the\r\n\ default\ RandomPlayer\ is\ built\ that\ follows\ a\ predictable\r\n\ sequence.\ If\ args.length\ >\ 0\ then\ we\ assume\ we\ can\r\n\ convert\ the\ first\ element\ to\ an\ int\ and\ build\ the\r\n\ RandomPlayer\ with\ that\ initial\ value.\r\n
+numComments=7
