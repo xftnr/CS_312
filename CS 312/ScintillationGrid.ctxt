@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-comment1.params=g\ bigsize\ size\ level\ line\ x\ y
-comment1.target=void\ loop(java.awt.Graphics,\ int,\ int,\ int,\ int,\ int,\ int)
-comment2.params=
-comment2.target=void\ drawingOne()
-numComments=3

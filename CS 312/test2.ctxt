@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.params=numPeople\ numDaysInYear
-comment0.target=int\ sharedBirthdays(int,\ int)
-comment1.params=
-comment1.target=void\ experiments2()
-numComments=2
